@@ -1,0 +1,23 @@
+{
+  "original_rows": 32581,
+  "rows_used": 32574,
+  "train_rows": 26059,
+  "test_rows": 6515,
+  "class_1_rate": 0.2182,
+  "accuracy": 0.9305,
+  "default_precision": 0.9764,
+  "default_recall": 0.6981,
+  "roc_auc": 0.929,
+  "confusion_matrix_labels_0_1": [
+    [
+      5070,
+      24
+    ],
+    [
+      429,
+      992
+    ]
+  ],
+  "data_currency": "Not specified by dataset",
+  "split": "80/20 stratified random split, seed 42"
+  }
